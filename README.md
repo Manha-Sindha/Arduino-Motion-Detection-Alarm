@@ -17,6 +17,7 @@ This project is a simple motion detection alarm built using an Arduino Uno, a PI
 - 2 × 220 Ω Resistors
 - Breadboard
 - Jumper Wires
+- Tinkercad Software
 
 ## Circuit
 The circuit was designed and simulated using Tinkercad.
